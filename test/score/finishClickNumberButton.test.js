@@ -1,4 +1,3 @@
-import { expect } from 'chai';
 import { getDriver } from '../helper/helpers.js';
 import ScorePage from '../../src/pages/scorePage.js';
 describe('Finish Click Number Button', function() {
